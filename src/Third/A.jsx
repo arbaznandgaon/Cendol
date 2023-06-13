@@ -1,13 +1,12 @@
-import React from 'react';
-import B from './B';
+import React from "react";
+import B from "./B";
 
 function A() {
-
-    var cendol=2;
+  var cendol = 2;
 
   return (
     <div>
-      <B cendol={cendol}/>
+      <B cendol={cendol} />
     </div>
   );
 }
