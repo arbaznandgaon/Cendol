@@ -27,7 +27,7 @@ function Home() {
           </div>
         </div>
         <br></br>
-      </div>
+      </div> 
       <div>
         <button
           onClick={colorChange}
