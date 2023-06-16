@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 function B({ cendol }) {
-  const [count, setCount] = useState(2);
+   const [count, setCount] = useState(2);
 
   const Increment = () => {
     setCount(count + 10);

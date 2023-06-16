@@ -35,7 +35,7 @@ function Home() {
         >
           Change Color
         </button>
-      </div>
+      </div> 
     </div>
   );
 }

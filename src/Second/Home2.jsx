@@ -6,7 +6,7 @@ function Home2() {
 
   function Change() {
     setBg(!bg);
-  }
+  } 
 
   return (
     <div className="flex h-screen justify-center items-center">

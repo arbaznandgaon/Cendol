@@ -5,7 +5,7 @@ function A() {
   var cendol = 2;
 
   return (
-    <div>
+    <div> 
       <B cendol={cendol} />
     </div>
   );
